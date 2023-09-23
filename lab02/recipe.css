@@ -1,0 +1,12 @@
+body { font-family:Arial, Verdana, sans-serif;
+background-color:#FFCCCC;}
+h1 {
+  background-color: darkred;
+	font-size: 24pt;
+	color: white;
+	}
+h2 {font-size: 14pt;}
+h3 {font-size: 16pt;
+color: darkred;}
+p {font-weight:bold;}
+li {font-style: italic;}
