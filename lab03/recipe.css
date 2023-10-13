@@ -1,0 +1,18 @@
+body { font-family:Arial, Verdana, sans-serif;
+background-color:#FFCCCC;
+background-image: url(images/background1.jpg);
+}
+h1 {
+  background-color: darkred;
+	font-size: 24pt;
+	color: white;
+	border-radius: 8px;
+  text-shadow: 4px 2px black;
+	}
+h2 {font-size: 14pt;}
+h3 {font-size: 16pt;
+  text-transform: uppercase;
+color: darkred;}
+p {font-weight:bold;}
+li {margin-left:15px;
+  font-style: italic;}
