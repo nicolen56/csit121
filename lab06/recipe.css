@@ -47,7 +47,10 @@ a:hover{
   }
   .ingredients{
     float:none;
-    background-color: white;
+    width: 80%;
   }
-  .instructions{float:none;}
+  .instructions{
+    float:none;
+    width: 80%;
+  }
 }
