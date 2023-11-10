@@ -1,0 +1,47 @@
+
+.ingredients{
+  float: left;
+  width: 30%;
+}
+.instructions{
+  float:right;
+  width: 60%;
+}
+body { font-family:Arial, Verdana, sans-serif;
+  background-color:#FFCCCC;
+ background-image: url(images/background1.jpg);
+ margin:auto;
+  max-width:80%;
+}
+h1 {
+  background-color: darkred;
+	font-size: 24pt;
+	color: white;
+  border-radius: 8px;
+  text-shadow: 4px 2px black;
+  
+	}
+h2 {font-size: 14pt;}
+h3 {font-size: 16pt;
+  text-transform: uppercase;
+color: darkred;}
+p {font-weight:bold;}
+li {margin-left:15px;
+  font-style: italic;}
+footer {
+width: 80%;
+clear:both;
+margin:auto;}
+a:link{
+  color:blue;
+}
+a:visited{
+  color:red;
+}
+a:hover{
+  color: darkblue;
+}
+@media screen and (max-width:768px){
+  .ingredients{float:none;}
+  .instructions{float:none;}
+}
