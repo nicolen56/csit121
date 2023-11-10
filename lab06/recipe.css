@@ -45,9 +45,9 @@ a:hover{
   body{
     font-size: 15pt;
   }
-  ingredients{
+  .ingredients{
     float:none;
     background-color: white;
   }
-  instructions{float:none;}
+  .instructions{float:none;}
 }
