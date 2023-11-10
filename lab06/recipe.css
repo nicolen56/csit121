@@ -42,6 +42,6 @@ a:hover{
   color: darkblue;
 }
 @media screen and (max-width:768px){
-  .ingredients{float:none;}
-  .instructions{float:none;}
+  ingredients{float:none;}
+  instructions{float:none;}
 }
