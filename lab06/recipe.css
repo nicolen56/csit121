@@ -43,8 +43,11 @@ a:hover{
 }
 @media only screen and (max-width:600px){
   body{
-    font-size: 30pt;
+    font-size: 15pt;
   }
-  ingredients{float:none;}
+  ingredients{
+    float:none;
+    background-color: white;
+  }
   instructions{float:none;}
 }
