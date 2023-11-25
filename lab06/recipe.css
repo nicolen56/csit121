@@ -49,13 +49,15 @@ a:hover{
   .ingredients{
     float:none;
     width: 100%;
-    border-style: dashed;
+    border-style: double;
     border-radius: 5px;
+     border-color:darkred;
   }
   .instructions{
     float:none;
     width: 100%;
-    border-style: dashed;
+    border-style: double;
     border-radius: 5px;
+     border-color:darkred;
   }
 }
