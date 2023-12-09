@@ -3,7 +3,7 @@ body {
   margin:auto;
   font-family:Georgia, serif;
   background-color:lightgray;
-  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS63H4SdjvvAB0STmE4PA0imeZRpcSvD29O4Q&usqp=CAU);
+  background-image:url(images/background.jpg);
 }
 nav {
   background-color:lightblue;
@@ -99,3 +99,11 @@ table,td {
   border-collapse:collapse;
 }
 .blank3{float:left;}
+@media only screen and (max-width:728px){
+  .p1img,.p2img.p3img.p4img.p5img{
+    float:none;
+    .next-page1,.prev-page,.next-page2,.prev-page2,.next-page3{
+      font-size: 12pt;
+    }
+  }
+}
