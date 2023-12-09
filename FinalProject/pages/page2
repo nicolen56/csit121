@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>3 Good First Cars to Buy </title>
+  </head>
+  <body>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="page2.html">Tips</a>
+      <a href="page3.html">Honda Civic</a>
+      <a href="page4.html">Toyota Prius</a>
+      <a href="page5.html">Subaru Legacy</a>
+    </nav>
+    <h1 class="p2head">Things to Consider</h1>
+    <h2> Before even choosing the car you want to purchase, there are some important steps and considerations that you should take.</h2>
+    <img class="p2img"src="pages/driving.jpg" alt="person driving car" height="375" width="500">
+    <dl>
+      <dt>1. Knowing your price range</dt>
+      <dd>Cars are a huge expense, so one of your first steps should be to define a budget. Once your budget is defined, this can help you decide what exact car you want and how you plan to pay for it. </dd>
+      <dt>2. Choosing where and how to purchase</dt>
+      <dd>The most reliable form of buying a car will always be through a dealership. Through dealerships, you're most likely to pay for the car by renting it or through a car note, but this can include interest and a lot of other high fees. If you're not looking to buy a car through a dealership because of the higher prices, you can always check for local car listings on places like <a href="https://www.facebook.com/marketplace/">Facebook Marketplace</a>, <a href="https://www.cars.com/shopping/results/">Cars.com</a>, and other websites. Buying used cars directly from the seller is a great way to get a car for a much cheaper price and purchase it cash so you don't have to worry about an expensive car note. However, this increases your chances of getting scammed or buying a car in poor condition, so it's important to do thorough research and negotiate before purchasing.</dd>
+      <dt>3. Choosing which car is best for you</dt>
+      <dd>Once you've determined your price range and how you want to purchase the car, now you can start deciding which actual car you want. Since it's a first car, it doesn't need to be super new or fancy, but you also don't want to get any car thats too old or run down just because it's cheap. Safety and reliability should be the biggest priorities when deciding on a car.</dd>
+    </dl>
+    <a href="index.html"><button class="prev-page">Previous Page</button></a>
+    <a href="pages/page3.html"><button class="next-page2">Next Page</button></a>
+    <p class="blank"></p>
+    <footer><a href="pages/page6.html">Contact Us!</a></footer>
+  </body>
+</html>
